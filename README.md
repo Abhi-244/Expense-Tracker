@@ -20,18 +20,6 @@ Check out the live application here:
 [Smart Expense Tracker](https://expense-tracker-k0ue.onrender.com)
 
 ---
-
-## Screenshots
-
-
-**Home Page**  
-![Home](Screenshot_home.png)
-
-**Add Expense Page**  
-![Add Expense](Screenshot_Add_expense.png)
-
----
-
 ## Tech Stack
 
 - **Backend:** Python, Flask  
